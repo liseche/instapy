@@ -1,0 +1,9 @@
+Timing performed using test/rain.jpg: 600x400
+
+Reference (pure Python) filter time color2gray: 3.29s (calls=3)
+Timing: numpy color2gray: 0.0141s (speedup=232.63x)
+Timing: numba color2gray: 0.00113s (speedup=2898.68x)
+
+Reference (pure Python) filter time color2sepia: 7.2s (calls=3)
+Timing: numpy color2sepia: 0.0322s (speedup=223.41x)
+Timing: numba color2sepia: 0.0323s (speedup=222.67x)
