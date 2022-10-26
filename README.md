@@ -6,6 +6,8 @@ There are three different implementations of the filters, respectively a pure py
 
 It is possible to generate a timing report. This will print out the report to a file timing-report.txt.
 
+Created as an assignment solution in the subject IN3110 at UiO.
+
 ## Installation
 ### Pre-requisites
 Python version 3.7 or higher.
