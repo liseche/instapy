@@ -24,7 +24,7 @@ The dependencies should be automatically installed when you install the package,
 `pip install numpy pillow numba line-profiler`
 
 ### How to install and use instapy package
-From root directory (not "instapy") run:
+From this program's root directory (not "instapy") run:
 ```
 pip install .
 ```
