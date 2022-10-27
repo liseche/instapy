@@ -37,7 +37,7 @@ The package has been made to be used through the terminal. Type in from root dir
 instapy [-h] [-o OUT] [-g] [-se] [-sc SCALE] -i {python,numba,numpy,cython} [-r] file
 ```
 Where the arguments enclosed within the brackets are optional. Type `instapy --help` for full information on how to use and run the package.
-
+file denotes the relative path from this program's root directory to the image that one wants to apply filters to.
 ### Run tests
 Type `pytest` or `pytest -v` for verbose.
 
