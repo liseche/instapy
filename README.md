@@ -2,7 +2,7 @@
 
 This package applies grayscale and sepia image filters to images. 
 
-There are three different implementations of the filters, respectively a pure python implementation, a numpy implementation and a numba implementation. The numpy sepia filter is tunable.
+There are three different implementations of the filters, a pure python implementation, a numpy implementation and a numba implementation. The numpy sepia filter is tunable.
 
 It is possible to generate a timing report. This will print out the report to a file timing-report.txt.
 
